@@ -6,14 +6,20 @@ TITAL- SALES DASHBOARD
 
 DESCRIPTION -
 🚗 Sales Dashboard - Power BI Project
+
 🔍 Overview:
 This interactive Power BI dashboard visualizes key insights from a fictional automobile company's global sales data between 2003 and 2005. It provides a comprehensive look at product performance, regional trends, employee contributions, and profit margins — all in one dynamic view.
 
 📊 Key Highlights:
+
 💰 Total Sales: 
+
 📈 Total Profit Margin:
+
 🏆 Top Product: 
+
 🌍 Global Reach: 
+
 📦 Sales Breakdown: 
 
 📌 Visuals Included:
