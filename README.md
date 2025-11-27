@@ -103,4 +103,4 @@ Afternoon and evening are peak hours for sales
 Chicken and Classic pizzas are top-performing categories
 Monthly variation helps in planning inventory and staffing
 
-![image alt]()
+![image alt](https://github.com/yashrajpowar/Power-BI-project-0.1/blob/62d5fa764cac0823c13f5e113e0f3c3891d2e94d/project%200.2/Screenshot%202025-11-27%20214719.png)
