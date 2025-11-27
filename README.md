@@ -44,3 +44,63 @@ This project was developed to explore data-driven storytelling and to gain hands
 
 example - 
 ![image alt](https://github.com/yashrajpowar/Power-BI-project-0.1/blob/main/project%20screenshot.png?raw=true)
+
+
+
+🍕 Pizza Sales Analysis – Power BI Dashboard 0.2
+
+This repository contains an interactive Power BI dashboard built to analyze pizza sales across different categories, weekdays, time periods, and months. The project focuses on identifying sales patterns, customer preferences, and business insights using modern data visualization techniques.
+
+📌 Project Overview
+This dashboard delivers a comprehensive view of pizza sales performance.
+
+Objectives:
+Analyze total sales and key KPIs
+Identify best-selling pizzas and most-ordered item
+Study sales trends by weekday and time of day
+Compare category-wise performance
+Track month-by-month sales patterns
+Support business decisions with clear insights
+
+📊 Dashboard Features
+⭐ Total Sales Summary
+
+Total sales: 818K
+Highlights the highest-selling pizza
+Displays the most ordered pizza
+
+⭐ Sales by Weekday
+
+Understand sales distribution across the week
+Friday shows the highest sales, followed by Thursday and Saturday
+
+⭐ Orders by Time of Day
+
+Split into Morning, Afternoon, Evening, and Night
+Afternoon & Evening show the highest order volume
+
+⭐ Category-Wise Sales
+
+Bubble chart displaying performance of Chicken, Classic, Supreme, and Veggie
+Chicken & Classic categories dominate sales
+
+⭐ Monthly Sales Trend
+
+Full-year trend visualization
+Strong months include May, March, and November
+
+🛠 Tech Stack
+
+Power BI Desktop
+DAX for measures
+Power Query for data cleaning
+Star Schema data modelling
+
+💡 Key Insights
+
+Fridays generate the highest revenue — ideal for targeted promotions
+Afternoon and evening are peak hours for sales
+Chicken and Classic pizzas are top-performing categories
+Monthly variation helps in planning inventory and staffing
+
+![image alt]()
